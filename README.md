@@ -43,6 +43,4 @@ This project analyzes store sales trends and customer behavior using **Microsoft
 3. **Peak Shopping Hours:** Found out when customers are most active.  
 
 ## 📸 Dashboard Preview  
-
-## 📧 Contact  
-For any queries or discussions, reach out to me at **[bindumadhurichinnam@gmail.com](mailto:bindumadhurichinnam@gmail.com)**.
+![Dashboard Preview](Dashboard-Preview.png)
